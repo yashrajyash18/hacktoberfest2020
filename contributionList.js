@@ -24,4 +24,9 @@ contributors = [
     fullname: "Sandeep Kumar",
     username: "https://github.com/coolsand19",
   },
+  {
+    id:6,
+    fullname: "Amartya Pandey",
+    username: "https://github.com/AMARTYA2020",
+  },
 ];
