@@ -1,5 +1,5 @@
-# hacktoberfest2020
-ADVANCED DSA in C++
+# hacktoberfest_DSA
+ADVANCED DSA
 
 
 Various complex DSA problems solved with ease with brief approach !
